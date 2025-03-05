@@ -122,7 +122,7 @@ picture {
 
 .card-group {
   font-weight: 500;
-  font-size: 12px;
+  font-size: 1.2rem;
   text-transform: uppercase;
   /* line-height: 14px; */
   line-height: 1.2;
@@ -132,7 +132,7 @@ picture {
 
 .card-title {
   font-weight: 700;
-  font-size: 32px;
+  font-size: 3.2rem;
 
   /* line-height: 32px; */
   line-height: 1;
@@ -141,7 +141,7 @@ picture {
 
 .card-desc {
   font-weight: 500;
-  font-size: 14px;
+  font-size: 1.4rem;
 
   /* line-height: 22px; */
   line-height: 1.6;
@@ -159,7 +159,7 @@ picture {
 .card-price-1 {
   font-family: var(--second-family);
   font-weight: 700;
-  font-size: 32px;
+  font-size: 3.2rem;
 
   /* line-height: 32px; */
   line-height: 1;
@@ -168,7 +168,7 @@ picture {
 
 .card-price-2 {
   font-weight: 500;
-  font-size: 13px;
+  font-size: 1.3rem;
 
   /* line-height: 16px; */
   line-height: 1.2;
@@ -191,7 +191,7 @@ picture {
   background: var(--color-green-500);
 
   font-weight: 700;
-  font-size: 14px;
+  font-size: 1.4rem;
   /* line-height: 15px; */
   line-height: 1.1;
   color: var(--color-white);
