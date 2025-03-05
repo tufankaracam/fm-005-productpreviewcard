@@ -38,6 +38,9 @@ button {
   min-width: 280px;
   padding: 0 13px;
   min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 @media screen and (min-width: 626px) {
